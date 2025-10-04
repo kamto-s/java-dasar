@@ -17,6 +17,7 @@ public class TipeDataNumber {
 
 //        underscore
         long balance = 1_000_000_000;
-        
+
+//        konversi tipe data number
     }
 }
